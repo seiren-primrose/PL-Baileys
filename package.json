@@ -11,10 +11,6 @@
     "newsletter",
     "whatsapp-bot"
   ],
-  "homepage": "https://github.com/LT-SYAII/Bail",
-  "repository": {
-    "url": "git+ssh://git@github.com/LT-SYAII/Bail.git"
-  },
   "license": "MIT",
   "author": "Adhiraj Singh",
   "main": "lib/index.js",
